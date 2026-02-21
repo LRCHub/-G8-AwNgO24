@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "聖なる夜の贈り物",
+  "base_artist": "秦 基博",
+  "createdAt": "2026-02-21T10:40:30.443628Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "聖なる夜の贈り物",
+      "artist": "秦基博",
+      "has_synced": true,
+      "path": "select/01_聖なる夜の贈り物_秦基博.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "聖なる夜の贈り物",
+      "artist": "秦基博",
+      "has_synced": true,
+      "path": "select/02_聖なる夜の贈り物_秦基博.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "聖なる夜の贈り物",
+      "artist": "Motohiro Hata",
+      "has_synced": true,
+      "path": "select/03_聖なる夜の贈り物_Motohiro_Hata.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "聖なる夜の贈り物",
+      "artist": "秦 基博",
+      "has_synced": true,
+      "path": "select/04_聖なる夜の贈り物_秦_基博.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "聖なる夜の贈り物",
+      "artist": "秦 基博",
+      "has_synced": false,
+      "path": "select/pl_01_聖なる夜の贈り物_秦_基博.txt"
+    }
+  ]
+}
